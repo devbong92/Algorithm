@@ -1,6 +1,6 @@
 # Algorithm
 
-## 백준허브
+## [백준허브](https://github.com/BaekjoonHub/BaekjoonHub)
 - This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 ### 적용되는 사이트
   ### [백준 알고리즘](https://www.acmicpc.net/, "백준 알고리즘")
