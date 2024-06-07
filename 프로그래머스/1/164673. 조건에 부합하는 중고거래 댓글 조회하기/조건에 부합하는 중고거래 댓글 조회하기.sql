@@ -1,0 +1,17 @@
+-- 코드를 입력하세요
+SELECT
+           UGB.TITLE, 
+           UGB.BOARD_ID, 
+           UGR.REPLY_ID, 
+           UGR.WRITER_ID, 
+           UGR.CONTENTS, 
+           DATE_FORMAT(UGR.CREATED_DATE, '%Y-%m-%d') AS CREATED_DATE
+      FROM USED_GOODS_BOARD UGB
+INNER JOIN USED_GOODS_REPLY UGR
+        ON UGB.BOARD_ID = UGR.BOARD_ID
+     WHERE 1=1
+       # AND DATE_FORMAT(UGB.CREATED_DATE,'%Y-%m') = '2022-10' 
+       AND UGB.CREATED_DATE >= STR_TO_DATE('2022-10-01 00:00:00', '%Y-%m-%d %H:%i:%s')
+       AND UGB.CREATED_DATE < STR_TO_DATE('2022-11-01 00:00:00', '%Y-%m-%d %H:%i:%s')
+  ORDER BY UGR.CREATED_DATE, UGB.TITLE
+;
