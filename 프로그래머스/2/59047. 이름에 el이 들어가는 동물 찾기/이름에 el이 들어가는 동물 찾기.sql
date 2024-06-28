@@ -3,6 +3,6 @@ SELECT
    ANIMAL_ID, NAME
    FROM ANIMAL_INS
   WHERE ANIMAL_TYPE = 'Dog'
-    AND NAME like '%el%'
+    AND LOWER(NAME) like '%el%'
   ORDER BY NAME  
     ;
