@@ -11,7 +11,5 @@ function solution(a, b) {
     for(min; min <= max; min++){
         answer += min;
     }
-    
-    
     return answer;
 }
