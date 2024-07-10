@@ -1,12 +1,8 @@
 -- 코드를 입력하세요
-
-SELECT 
- c.CATEGORY , 
- count(c.CATEGORY) as PRODUCTS
-  FROM (
-      SELECT
-             substr(PRODUCT_CODE,1,2) AS CATEGORY
-        FROM PRODUCT
-  ) c
+SELECT
+     substr(PRODUCT_CODE,1,2) AS CATEGORY ,
+     count(PRODUCT_ID) as PRODUCTS
+FROM PRODUCT
 GROUP BY 1
-ORDER BY 1
+ORDER BY 1 ;
+  
