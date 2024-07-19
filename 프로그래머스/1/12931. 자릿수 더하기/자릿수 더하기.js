@@ -1,7 +1,7 @@
 function solution(n)
 {
-    var answer = 0;
-    var nList = (n+'').split('');
+    let answer = 0;
+    let nList = (n+'').split('');
     nList.forEach(function(v){
         answer += Number(v);
     });
