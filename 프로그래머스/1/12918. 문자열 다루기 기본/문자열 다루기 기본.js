@@ -1,5 +1,5 @@
 function solution(s) {
-    let answer = /^[0-9{4,6}]*$/.test(s);
+    let answer = /^\d{6}$|^\d{4}$/.test(s);
     
     let strArr = s.split('');
     if(strArr.length !== 4 && strArr.length !== 6) return false;
