@@ -1,0 +1,12 @@
+-- 코드를 입력하세요
+SELECT
+    product.PRODUCT_ID,
+    product.PRODUCT_NAME,
+    SUM(product.PRICE * orders.AMOUNT) AS TOTAL_SALES
+ FROM FOOD_PRODUCT product
+INNER JOIN FOOD_ORDER orders 
+   ON product.PRODUCT_ID = orders.PRODUCT_ID
+WHERE YEAR(orders.PRODUCE_DATE) = 2022
+  AND MONTH(orders.PRODUCE_DATE) = 5
+GROUP BY product.PRODUCT_ID,product.PRODUCT_NAME
+ORDER BY TOTAL_SALES DESC, product.PRODUCT_ID ASC ;
