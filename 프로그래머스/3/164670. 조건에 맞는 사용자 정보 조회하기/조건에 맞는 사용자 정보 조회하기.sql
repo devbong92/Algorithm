@@ -12,4 +12,4 @@ SELECT
  ) boards
     ON users.USER_ID = boards.WRITER_ID
  WHERE boards.cnt >= 3
- ORDER BY users.USER_ID DESC ; 
+ ORDER BY users.USER_ID DESC ;
