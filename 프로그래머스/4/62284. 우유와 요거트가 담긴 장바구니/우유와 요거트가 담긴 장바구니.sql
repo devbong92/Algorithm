@@ -6,5 +6,4 @@ SELECT
          on cp1.cart_id = cp2.cart_id
       WHERE cp1.NAME = 'Milk'
         and cp2.name = 'Yogurt'
- group by cp1.cart_id
- ;
+ group by cp1.cart_id ;
