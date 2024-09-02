@@ -8,7 +8,7 @@
 - This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 ## [적용] LeetHub v3
-- 일부 수정 [LeetHuv v3](https://github.com/raphaelheinz/LeetHub-3.0)
+- 일부 수정 [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 
 ### 자동으로 적용되는 사이트
 - #### [백준 알고리즘](https://www.acmicpc.net/, "백준 알고리즘")
