@@ -2,4 +2,4 @@
 SELECT 
        name
   FROM Customer
-WHERE ifnull(referee_id,0) <> 2 ; -- test
+WHERE ifnull(referee_id,0) <> 2
