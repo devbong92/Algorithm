@@ -12,4 +12,4 @@ left outer join (
             Group by customer_id
         ) m
 on d.customer_id = m.customer_id
-and d.customer_pref_delivery_date = m.order_date
+and d.customer_pref_delivery_date = m.order_date ; 
