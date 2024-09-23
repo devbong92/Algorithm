@@ -13,4 +13,4 @@
 ### 자동으로 적용되는 사이트
 - #### [백준 알고리즘](https://www.acmicpc.net/, "백준 알고리즘")
 - #### [프로그래머스 코딩테스트](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&partIds=17615%2C6174, "프로그래머스 코딩테스트")
-- #### [LeetCode](https://leetcode.com/,"Leet Code")
+- #### [LeetCode](https://leetcode.com/, "Leet Code")
