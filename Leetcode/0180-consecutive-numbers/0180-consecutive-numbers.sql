@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 
 select 
-  l1.num as ConsecutiveNums
+  distinct l1.num as ConsecutiveNums
   from Logs l1
   inner join Logs l2
   on l1.id+1 = l2.id
