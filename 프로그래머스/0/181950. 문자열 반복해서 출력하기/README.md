@@ -1,10 +1,10 @@
 # [level 0] 문자열 반복해서 출력하기 - 181950 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181950?language=scala) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181950?language=go) 
 
 ### 성능 요약
 
-메모리: 60.9 MB, 시간: 218.71 ms
+메모리: 3.9 MB, 시간: 6.52 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 08일 18:35:21
+2025년 05월 08일 18:40:08
 
 ### 문제 설명
 
