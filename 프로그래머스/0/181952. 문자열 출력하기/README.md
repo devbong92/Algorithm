@@ -1,10 +1,10 @@
 # [level 0] 문자열 출력하기 - 181952 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.14 MB, 시간: 1.96 ms
+메모리: 16 MB, 시간: 22.85 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 13일 23:27:02
+2025년 05월 08일 15:29:45
 
 ### 문제 설명
 
