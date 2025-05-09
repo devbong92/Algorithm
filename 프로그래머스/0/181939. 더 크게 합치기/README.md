@@ -1,10 +1,10 @@
 # [level 0] 더 크게 합치기 - 181939 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181939?language=scala) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181939?language=go) 
 
 ### 성능 요약
 
-메모리: 90.5 MB, 시간: 1.83 ms
+메모리: 4.21 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 10일 00:03:00
+2025년 05월 10일 00:28:15
 
 ### 문제 설명
 
