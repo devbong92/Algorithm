@@ -1,10 +1,10 @@
 # [level 0] 더 크게 합치기 - 181939 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181939?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181939?language=javascript) 
 
 ### 성능 요약
 
-메모리: 31.3 MB, 시간: 0.92 ms
+메모리: 33.4 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 09일 23:45:03
+2025년 05월 09일 23:47:11
 
 ### 문제 설명
 
