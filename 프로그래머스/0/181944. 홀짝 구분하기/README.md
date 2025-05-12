@@ -1,10 +1,10 @@
 # [level 0] 홀짝 구분하기 - 181944 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181944?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181944?language=scala) 
 
 ### 성능 요약
 
-메모리: 47.4 MB, 시간: 216.10 ms
+메모리: 61.2 MB, 시간: 223.35 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 12일 23:04:33
+2025년 05월 12일 23:06:10
 
 ### 문제 설명
 
