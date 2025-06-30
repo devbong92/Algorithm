@@ -4,5 +4,4 @@ SELECT
    FROM ANIMAL_INS
   WHERE ANIMAL_TYPE = 'Dog'
     AND LOWER(NAME) like '%el%'
-  ORDER BY NAME  
-    ;
+  ORDER BY NAME ;
