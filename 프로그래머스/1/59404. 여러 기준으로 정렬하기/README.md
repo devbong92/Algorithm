@@ -1,6 +1,6 @@
 # [level 1] 여러 기준으로 정렬하기 - 59404 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59404) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59404?language=oracle) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@ Empty
 
 ### 제출 일자
 
-2024년 06월 27일 13:36:42
+2025년 07월 09일 10:13:11
 
 ### 문제 설명
 
